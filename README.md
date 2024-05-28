@@ -13,16 +13,7 @@ This project focuses on understanding the escape jump mechanisms in flies using 
 
 To run the simulations and scripts, please ensure the following are installed:
 
-- *Python*
-- *Jupyter Notebook*
-- *matplotlib*
-- *numpy*
-- *tqdm*
-- *gymnasium*
-- *flygym*
-- *flygym v1*
-- *dm_control*
-- *IPython*
+- *Python*, *Jupyter Notebook*, *matplotlib*, *numpy*, *tqdm*, *gymnasium*, *flygym*, *flygym v1*, *dm_control*, *IPython*
   
 ## Usage 
 - Clone the Repository: Clone this repository to your local machine using the following command: https://github.com/lucilemln/MiniProjectControllingBehavior.git
