@@ -25,7 +25,7 @@ FlyGym V1
 
 ## Installation
 
-Clone the following repository:
+Clone the following repository: https://github.com/lucilemln/MiniProjectControllingBehavior.git
 
 ## Future Work
 Integrate additional factors such as angle size and object speed to improve the accuracy of visual looming simulations.
